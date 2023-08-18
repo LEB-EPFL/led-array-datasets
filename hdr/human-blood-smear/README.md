@@ -2,6 +2,8 @@
 
 Human red blood cells illuminated with the blue LED of the Adafruit 32x32 RGB LED matrix. Image metadata contains information about the LED coordinates for each frame.
 
+https://ch.vwr.com/store/catalog/product.jsp?catalog_number=LIEDMA1902C
+
 | Attribute | Value |
 | --------- | ----- |
 | Magnification | 10x |
