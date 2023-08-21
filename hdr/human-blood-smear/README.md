@@ -4,6 +4,8 @@ Human red blood cells illuminated with the blue LED of the Adafruit 32x32 RGB LE
 
 https://ch.vwr.com/store/catalog/product.jsp?catalog_number=LIEDMA1902C
 
+Dark frames are averaged over 1005 frames with no light signal and the same exposure times/gains.
+
 | Attribute | Value |
 | --------- | ----- |
 | Magnification | 10x |
