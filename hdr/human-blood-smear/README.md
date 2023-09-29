@@ -11,7 +11,7 @@ Dark frames are averaged over 1005 frames with no light signal and the same expo
 | Magnification | 10x |
 | NA | 0.288 |
 | Pixel size | 5.86 um x 5.86 um |
-| LED matrix axial offset | 50 mm |
+| LED matrix axial offset | 65 mm |
 | LED matrix pitch | 4 mm x 4 mm |
 | LED matrix rotation | 0 degrees |
 | Wavelength | 473 nm (peak) |
